@@ -50,6 +50,7 @@ test:
 about:
   license: NVIDIA cuDNN Software License Agreement
   license_file: NVIDIA_SLA
+  license_url: https://docs.nvidia.com/deeplearning/cudnn/sla/index.html
   description: |
     NVIDIA CUDA Deep Neural Network (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. It provides highly tuned implementations of routines arising frequently in DNN applications.
 
